@@ -4,7 +4,7 @@
 [descrição](https://github.com/emillycaaroline/calendario#-descri%C3%A7%C3%A3o)  
 [Funcionalidades](https://github.com/emillycaaroline/calendario#-funcionalidades)    
 [Tecnologias Utilizadas](https://github.com/emillycaaroline/calendario#%EF%B8%8F-tecnologias-utilizadas)     
-[Autores]()  
+[Autores](https://github.com/emillycaaroline/calendario#%EF%B8%8F-autores)  
 
 #  🚀 Projeto - Calendario Interativo.
 
@@ -15,7 +15,7 @@ Repositório criado para a disciplina de Linguagem de Programação I para reali
 
 ## 🔧 Funcionalidades
 
-Pagina responsiva que se adapta a qualquer tipo de tela.
+Um calendário interativo, onde pode escolher uma cor e adicionar o dia e automaticamente o dia ficará colorido
 
 
 ### 🖇️ Tecnologias Utilizadas
