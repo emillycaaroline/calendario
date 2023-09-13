@@ -1,8 +1,13 @@
 # Índice
 
+[Projeto - Calendario Interativo.](#projeto---portif%C3%B3lio-para-escrita-do-readme)  
+[descrição](#descri%C3%A7%C3%A3o)  
+[Funcionalidades](#funcionalidades)    
+[Tecnologias Utilizadas](#tecnologias-utilizadas)   
+[Fontes consultadas](#fontes-consultadas)    
+[Autores](#autores)  
 
-
-#  🚀 Projeto - portifólio para escrita do README.
+#  🚀 Projeto - Calendario Interativo.
 
 
 ## 📋 descrição
@@ -14,7 +19,7 @@ Repositório criado para a disciplina de Linguagem de Programação I para reali
 Pagina responsiva que se adapta a qualquer tipo de tela.
 
 
-### 🛠️ Tecnologias Utilizadas
+### 🖇️ Tecnologias Utilizadas
     
    - `github`  
    - `README`
@@ -22,13 +27,6 @@ Pagina responsiva que se adapta a qualquer tipo de tela.
    - `HTML`
    - `JS`
 
-## 🖇️ Fontes consultadas
-
-[Modelo para fazer README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
-
-[Site ultilizado para  fazer bom README:](https://www.alura.com.br/artigos/escrever-bom-readme)  
-
-[Bootstrap:](https://getbootstrap.com/)
 
 ## ✒️ Autores
 [•Emilly Caroline](https://github.com/emillycaaroline)  
