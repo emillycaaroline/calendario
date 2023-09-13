@@ -1,11 +1,10 @@
 # Índice
 
-[Projeto - Calendario Interativo.](#projeto---portif%C3%B3lio-para-escrita-do-readme)  
-[descrição](#descri%C3%A7%C3%A3o)  
-[Funcionalidades](#funcionalidades)    
-[Tecnologias Utilizadas](#tecnologias-utilizadas)   
-[Fontes consultadas](#fontes-consultadas)    
-[Autores](#autores)  
+[Projeto - Calendario Interativo.](https://github.com/emillycaaroline/calendario#-projeto---calendario-interativo)  
+[descrição](https://github.com/emillycaaroline/calendario#-descri%C3%A7%C3%A3o)  
+[Funcionalidades](https://github.com/emillycaaroline/calendario#-funcionalidades)    
+[Tecnologias Utilizadas](https://github.com/emillycaaroline/calendario#%EF%B8%8F-tecnologias-utilizadas)     
+[Autores]()  
 
 #  🚀 Projeto - Calendario Interativo.
 
