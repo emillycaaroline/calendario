@@ -6,16 +6,18 @@
 [Tecnologias Utilizadas](https://github.com/emillycaaroline/calendario#%EF%B8%8F-tecnologias-utilizadas)     
 [Autores](https://github.com/emillycaaroline/calendario#%EF%B8%8F-autores)  
 
-#  🚀 Projeto - Calendario Interativo.
+#  📅 Projeto - Calendario Interativo.
 
 
 ## 📋 descrição
 
-Repositório criado para a disciplina de Linguagem de Programação I para realização da atividade de criação de calendário iterativo.
+Repositório criado para a disciplina de Programação I para realização da atividade de criação de calendário iterativo.
 
 ## 🔧 Funcionalidades
 
 Um calendário interativo, onde pode escolher uma cor e adicionar o dia e automaticamente o dia ficará colorido
+
+![gif](gif/telaDoCalendario.gif)
 
 
 ### 🖇️ Tecnologias Utilizadas
