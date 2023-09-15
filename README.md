@@ -24,8 +24,8 @@ Este é um calendário interativo, onde se pode escolher uma cor e escolher um d
     
    - `github`  
    - `README`
-   - `CSS`
-   - `HTML`
+   - `CSS3`
+   - `HTML5`
    - `JS`
 
 
