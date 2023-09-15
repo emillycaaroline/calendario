@@ -15,7 +15,7 @@ Repositório criado para a disciplina de Programação I para realização da at
 
 ## 🔧 Funcionalidades
 
-Um calendário interativo, onde pode escolher uma cor e adicionar o dia e automaticamente o dia ficará colorido
+Este é um calendário interativo, onde se pode escolher uma cor e escolher um dia, depois de enviar automáticamente o dia estará da cor escolhida no calendário.
 
 ![gif](gif/telaDoCalendario.gif)
 
@@ -32,4 +32,4 @@ Um calendário interativo, onde pode escolher uma cor e adicionar o dia e automa
 ## ✒️ Autores
 [•Emilly Caroline](https://github.com/emillycaaroline)  
 [Perfil no Linkedin](https://www.linkedin.com/in/emilly-caroline-129936290) <br> <br>
-[•Leonardo Rocha](https://github.com/LeonardoRochaMarista)
+[ORIENTADOR=Leonardo Rocha](https://github.com/LeonardoRochaMarista)
